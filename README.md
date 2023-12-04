@@ -13,5 +13,7 @@ Only Desktop optimized. Sections such as nav and hero are not responsive on all 
 
 # tools
 VSCode - IDE
+
 Figma - Design Tool
+
 SVGRepo - All svg icons
